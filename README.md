@@ -6,3 +6,11 @@ my calculator on thinker
 
 
 ![alt text](sc.png) 
+
+
+
+
+
+
+
+![](shinra.gif)
