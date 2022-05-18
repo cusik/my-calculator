@@ -1,4 +1,4 @@
 my calculator on thinker
 
 
-![alt text](Снимок экрана (290).png)
+![alt text](sc1.png)
